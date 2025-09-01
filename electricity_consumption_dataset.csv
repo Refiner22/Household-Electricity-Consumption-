@@ -1,0 +1,1001 @@
+Temperature (°C),Time of Day,Appliance Type,Activity Level,Electricity Consumption (kWh)
+24.5,Evening,Refrigerator,High,1.62
+21.3,Night,Air Conditioner,High,3.35
+25.2,Morning,Television,High,0.48
+29.6,Night,Refrigerator,Low,0.73
+20.8,Evening,Refrigerator,High,1.34
+20.8,Morning,Air Conditioner,Low,2.99
+29.9,Evening,Television,High,0.65
+25.8,Evening,Washing Machine,Low,2.0
+19.7,Afternoon,Television,High,0.35
+24.7,Morning,Heater,Medium,3.73
+19.7,Afternoon,Microwave,High,1.44
+19.7,Morning,Washing Machine,High,2.15
+23.2,Evening,Refrigerator,Low,1.25
+12.4,Evening,Washing Machine,Low,1.05
+13.4,Night,Refrigerator,High,1.27
+19.2,Morning,Refrigerator,Medium,0.98
+16.9,Afternoon,Washing Machine,Medium,1.7
+23.6,Night,Refrigerator,Low,0.82
+17.5,Night,Refrigerator,Medium,0.86
+14.9,Night,Heater,High,3.92
+29.3,Afternoon,Television,Low,0.22
+20.9,Night,Television,High,0.59
+22.3,Afternoon,Microwave,Low,0.95
+14.9,Night,Microwave,Low,0.8
+19.3,Afternoon,Heater,Low,3.33
+22.6,Evening,Microwave,Low,1.23
+16.2,Evening,Washing Machine,Medium,1.89
+23.9,Evening,Air Conditioner,High,5.25
+19.0,Evening,Air Conditioner,High,4.66
+20.5,Evening,Air Conditioner,High,5.17
+19.0,Night,Heater,Low,3.01
+31.3,Night,Heater,Medium,4.27
+21.9,Night,Refrigerator,High,1.04
+16.7,Afternoon,Air Conditioner,Medium,3.53
+26.1,Afternoon,Washing Machine,Low,1.57
+15.9,Afternoon,Microwave,High,1.48
+23.0,Afternoon,Washing Machine,Medium,2.15
+12.2,Evening,Microwave,Low,0.77
+15.4,Evening,Air Conditioner,Medium,3.51
+23.0,Evening,Air Conditioner,High,4.96
+25.7,Morning,Air Conditioner,High,4.66
+22.9,Night,Heater,Low,2.9
+21.4,Afternoon,Microwave,Low,0.88
+20.5,Afternoon,Heater,Low,3.21
+14.6,Evening,Heater,Medium,4.26
+18.4,Afternoon,Television,Medium,0.5
+19.7,Afternoon,Washing Machine,Medium,2.06
+27.3,Night,Washing Machine,Low,1.85
+23.7,Evening,Refrigerator,High,1.77
+13.2,Night,Heater,High,3.72
+23.6,Morning,Microwave,Medium,0.71
+20.1,Morning,Television,Medium,0.36
+18.6,Morning,Television,High,0.28
+25.1,Evening,Washing Machine,High,3.09
+27.2,Afternoon,Heater,Medium,4.88
+26.7,Evening,Refrigerator,Medium,1.6
+17.8,Evening,Heater,High,5.4
+20.5,Afternoon,Air Conditioner,Low,2.87
+23.7,Night,Heater,Medium,3.84
+26.9,Morning,Air Conditioner,High,4.86
+19.6,Night,Air Conditioner,High,3.32
+21.1,Morning,Refrigerator,High,1.26
+16.5,Evening,Microwave,High,1.13
+16.0,Morning,Washing Machine,Low,1.19
+26.1,Evening,Heater,High,6.14
+28.8,Night,Air Conditioner,Medium,3.79
+21.6,Evening,Heater,Low,4.1
+27.0,Night,Microwave,High,1.21
+23.8,Afternoon,Washing Machine,Low,1.76
+18.8,Afternoon,Microwave,Medium,1.19
+23.8,Afternoon,Washing Machine,High,2.26
+29.7,Evening,Television,Medium,0.2
+21.8,Afternoon,Washing Machine,High,2.17
+29.8,Morning,Refrigerator,High,1.45
+8.9,Night,Microwave,High,0.64
+26.1,Night,Air Conditioner,High,4.39
+22.4,Morning,Television,High,-0.19
+20.5,Evening,Refrigerator,Low,1.03
+22.5,Evening,Heater,High,5.94
+12.1,Night,Microwave,High,0.95
+20.9,Afternoon,Air Conditioner,Low,3.3
+23.8,Evening,Washing Machine,Low,2.02
+29.4,Evening,Air Conditioner,Low,3.93
+19.4,Morning,Heater,Low,2.67
+18.0,Morning,Television,Low,0.02
+19.5,Afternoon,Television,Low,-0.11
+26.6,Evening,Microwave,High,1.69
+23.6,Evening,Television,High,0.52
+19.4,Morning,Microwave,Medium,1.01
+24.6,Evening,Microwave,High,1.34
+22.5,Night,Microwave,High,0.9
+26.8,Morning,Washing Machine,Low,1.8
+18.5,Afternoon,Refrigerator,Low,0.85
+20.4,Morning,Microwave,High,0.96
+20.0,Evening,Microwave,Medium,1.05
+14.7,Afternoon,Refrigerator,Low,0.77
+23.5,Morning,Air Conditioner,High,4.15
+23.3,Night,Microwave,High,0.86
+22.0,Night,Washing Machine,Medium,1.89
+20.8,Morning,Television,Medium,0.6
+14.9,Night,Television,Low,0.18
+19.9,Night,Heater,Medium,3.49
+20.3,Night,Heater,High,4.28
+18.0,Afternoon,Television,High,0.44
+21.2,Night,Television,Medium,0.1
+24.0,Night,Washing Machine,Medium,2.22
+31.4,Night,Refrigerator,Medium,1.13
+22.9,Afternoon,Heater,Medium,4.61
+23.3,Morning,Refrigerator,Low,1.09
+21.6,Evening,Washing Machine,Medium,1.99
+12.4,Night,Television,Low,0.1
+21.9,Morning,Microwave,High,1.21
+22.3,Night,Refrigerator,Medium,1.11
+34.3,Afternoon,Television,Low,0.39
+21.0,Morning,Television,Medium,0.45
+23.5,Afternoon,Air Conditioner,High,4.76
+21.8,Night,Refrigerator,High,1.36
+16.2,Night,Microwave,High,0.95
+27.7,Afternoon,Refrigerator,Medium,1.27
+25.8,Evening,Television,Medium,0.39
+26.0,Afternoon,Microwave,Low,1.1
+17.5,Night,Washing Machine,High,2.19
+29.0,Afternoon,Air Conditioner,Medium,4.5
+15.0,Evening,Television,High,0.64
+24.9,Afternoon,Heater,High,5.67
+33.0,Evening,Heater,Low,4.86
+17.0,Evening,Air Conditioner,Low,3.21
+19.2,Afternoon,Washing Machine,Low,1.62
+22.5,Afternoon,Television,Low,0.41
+19.5,Morning,Refrigerator,High,1.18
+14.2,Night,Air Conditioner,Low,2.2
+22.3,Evening,Washing Machine,Low,2.05
+16.7,Morning,Refrigerator,Low,1.07
+24.4,Afternoon,Heater,Low,3.85
+17.4,Night,Heater,High,4.14
+29.7,Morning,Refrigerator,Low,1.09
+18.1,Evening,Air Conditioner,High,4.58
+20.4,Morning,Heater,Medium,3.82
+26.1,Evening,Television,High,0.52
+15.8,Afternoon,Microwave,High,0.79
+23.1,Night,Refrigerator,Low,1.15
+28.5,Night,Refrigerator,Medium,1.23
+14.0,Night,Heater,Medium,2.94
+22.9,Afternoon,Air Conditioner,Medium,3.41
+23.3,Evening,Television,Medium,0.36
+25.9,Afternoon,Air Conditioner,High,4.94
+15.8,Night,Washing Machine,Medium,1.4
+15.4,Afternoon,Washing Machine,High,2.16
+24.6,Afternoon,Microwave,High,1.38
+23.5,Afternoon,Heater,High,5.32
+23.3,Evening,Heater,Medium,5.04
+23.7,Morning,Heater,Low,3.16
+18.6,Morning,Microwave,Low,0.78
+23.2,Afternoon,Washing Machine,Medium,2.49
+23.5,Morning,Air Conditioner,Low,2.88
+18.4,Morning,Microwave,Low,0.81
+31.3,Afternoon,Microwave,High,1.62
+24.4,Afternoon,Air Conditioner,High,4.84
+16.0,Night,Heater,Medium,3.15
+25.3,Morning,Television,Medium,0.21
+17.1,Evening,Air Conditioner,Low,3.06
+25.9,Afternoon,Washing Machine,High,2.79
+27.8,Night,Refrigerator,Medium,1.51
+17.9,Evening,Refrigerator,Medium,1.48
+26.8,Morning,Microwave,Medium,0.81
+24.1,Night,Refrigerator,Medium,0.85
+26.1,Afternoon,Television,Medium,0.33
+31.5,Evening,Heater,Medium,5.63
+20.8,Afternoon,Washing Machine,Low,1.68
+18.2,Morning,Television,High,0.46
+17.6,Evening,Washing Machine,High,2.69
+17.9,Morning,Washing Machine,Medium,1.9
+21.6,Morning,Heater,High,5.05
+23.7,Night,Microwave,High,0.84
+23.4,Afternoon,Refrigerator,High,1.65
+26.1,Evening,Heater,Medium,5.08
+22.1,Morning,Television,Medium,0.59
+29.3,Morning,Microwave,High,0.93
+20.7,Evening,Television,High,-0.01
+35.6,Morning,Microwave,Medium,1.33
+25.1,Night,Television,Low,0.45
+17.7,Night,Heater,High,4.1
+16.6,Night,Microwave,Low,0.48
+24.4,Night,Microwave,High,1.43
+20.9,Morning,Washing Machine,Low,1.32
+25.6,Evening,Washing Machine,Low,2.32
+24.4,Evening,Air Conditioner,Low,3.3
+21.6,Evening,Television,Medium,0.29
+17.8,Evening,Washing Machine,Low,1.89
+14.4,Afternoon,Air Conditioner,Low,2.32
+19.8,Evening,Washing Machine,Low,2.13
+26.3,Afternoon,Television,High,0.36
+23.1,Afternoon,Microwave,Low,0.93
+15.8,Night,Refrigerator,High,1.37
+22.9,Afternoon,Television,Low,0.11
+23.9,Morning,Heater,Low,3.53
+17.6,Afternoon,Washing Machine,Medium,2.33
+22.8,Night,Washing Machine,High,2.06
+22.3,Afternoon,Microwave,Low,1.16
+16.3,Morning,Heater,High,3.9
+23.8,Morning,Microwave,High,1.32
+24.8,Morning,Heater,Medium,3.98
+27.4,Night,Refrigerator,Medium,1.39
+27.3,Night,Washing Machine,Medium,2.16
+15.1,Evening,Washing Machine,Medium,2.48
+17.3,Night,Refrigerator,Medium,1.26
+24.6,Morning,Air Conditioner,Medium,3.65
+24.6,Morning,Microwave,Medium,0.84
+24.6,Night,Refrigerator,Medium,1.25
+41.3,Afternoon,Microwave,Low,1.21
+24.9,Night,Television,High,0.65
+27.7,Night,Washing Machine,Medium,1.57
+26.8,Morning,Microwave,Medium,1.53
+25.3,Evening,Heater,High,6.25
+20.4,Morning,Microwave,Low,0.61
+25.8,Evening,Television,High,0.61
+18.1,Morning,Washing Machine,High,2.47
+20.8,Night,Refrigerator,Medium,1.08
+19.6,Morning,Television,High,-0.01
+22.4,Morning,Washing Machine,High,2.36
+33.6,Morning,Microwave,Medium,1.44
+12.7,Night,Air Conditioner,Medium,2.66
+25.4,Night,Air Conditioner,Medium,3.33
+13.9,Night,Heater,Medium,3.28
+19.6,Night,Washing Machine,High,2.2
+27.4,Evening,Air Conditioner,High,5.75
+22.3,Evening,Refrigerator,Low,1.08
+16.6,Afternoon,Washing Machine,Low,1.47
+18.4,Night,Refrigerator,High,0.86
+25.4,Evening,Refrigerator,Low,1.18
+18.3,Morning,Air Conditioner,High,4.08
+23.1,Night,Washing Machine,Low,1.43
+22.2,Afternoon,Microwave,Medium,1.19
+18.7,Afternoon,Television,Low,0.47
+32.7,Afternoon,Air Conditioner,Medium,4.75
+25.2,Morning,Air Conditioner,Medium,3.82
+11.9,Evening,Microwave,Medium,0.69
+22.9,Morning,Washing Machine,Medium,1.97
+18.7,Night,Washing Machine,Low,1.69
+26.3,Afternoon,Refrigerator,High,1.74
+18.0,Morning,Microwave,Medium,1.3
+21.4,Morning,Microwave,Low,0.65
+24.5,Evening,Washing Machine,Medium,2.57
+26.3,Evening,Refrigerator,Low,1.17
+16.0,Afternoon,Air Conditioner,Low,2.83
+20.3,Morning,Heater,Low,3.27
+19.6,Morning,Television,High,0.46
+18.7,Evening,Air Conditioner,Low,3.35
+30.8,Morning,Washing Machine,Low,1.88
+24.0,Morning,Television,High,0.34
+15.7,Morning,Heater,High,3.84
+26.6,Evening,Heater,Low,4.32
+32.6,Afternoon,Refrigerator,High,1.95
+27.2,Night,Television,Medium,0.28
+14.4,Afternoon,Refrigerator,Medium,1.08
+19.6,Night,Air Conditioner,High,3.59
+28.3,Morning,Microwave,High,1.3
+18.5,Afternoon,Microwave,Low,0.71
+24.2,Night,Microwave,High,1.18
+25.9,Evening,Television,Low,0.41
+17.4,Evening,Microwave,Medium,0.94
+21.7,Afternoon,Air Conditioner,High,4.51
+5.8,Afternoon,Refrigerator,Low,0.67
+16.9,Morning,Television,Low,0.22
+20.7,Afternoon,Refrigerator,Medium,1.26
+15.8,Morning,Television,High,0.45
+30.2,Morning,Refrigerator,Medium,1.07
+14.8,Evening,Heater,Low,2.99
+19.8,Evening,Refrigerator,Low,1.14
+22.7,Night,Microwave,High,0.97
+29.2,Evening,Heater,Low,4.57
+14.8,Evening,Refrigerator,High,1.71
+27.8,Afternoon,Television,Medium,0.42
+22.1,Evening,Television,High,0.22
+17.1,Night,Television,High,0.5
+24.3,Afternoon,Washing Machine,Low,1.88
+23.0,Night,Air Conditioner,Low,2.27
+19.0,Evening,Television,High,0.13
+22.3,Night,Heater,Low,3.2
+20.1,Afternoon,Television,Low,0.52
+22.6,Morning,Washing Machine,Low,1.12
+25.3,Night,Microwave,High,0.88
+29.9,Night,Heater,Low,3.56
+15.8,Afternoon,Washing Machine,High,2.31
+32.7,Afternoon,Microwave,Low,1.21
+12.2,Night,Heater,Medium,2.88
+21.2,Evening,Refrigerator,Low,1.26
+24.9,Night,Air Conditioner,Low,2.67
+23.4,Afternoon,Air Conditioner,High,4.66
+18.9,Morning,Washing Machine,High,2.46
+21.0,Morning,Microwave,Low,0.82
+19.5,Evening,Air Conditioner,Medium,4.12
+19.1,Night,Microwave,Low,0.71
+26.2,Morning,Microwave,Low,0.77
+23.8,Night,Washing Machine,Medium,2.19
+18.5,Afternoon,Washing Machine,High,2.53
+26.5,Morning,Washing Machine,Low,1.67
+23.5,Evening,Air Conditioner,High,5.45
+26.1,Afternoon,Washing Machine,High,2.59
+25.1,Evening,Air Conditioner,Medium,4.91
+17.9,Afternoon,Washing Machine,Medium,1.98
+19.2,Morning,Television,High,0.09
+25.7,Evening,Microwave,Low,1.41
+25.1,Evening,Washing Machine,High,2.97
+21.9,Afternoon,Heater,Low,3.56
+22.6,Evening,Microwave,Low,1.12
+28.4,Afternoon,Microwave,Medium,1.48
+19.0,Afternoon,Washing Machine,Low,1.71
+24.7,Afternoon,Refrigerator,Low,0.98
+21.0,Afternoon,Washing Machine,High,2.63
+20.9,Morning,Microwave,Medium,0.89
+27.5,Afternoon,Heater,Low,3.96
+26.1,Night,Microwave,Low,1.1
+26.1,Evening,Heater,Medium,5.34
+28.5,Night,Air Conditioner,High,4.31
+22.1,Morning,Television,Medium,0.45
+25.4,Night,Microwave,Medium,1.12
+20.4,Evening,Washing Machine,Low,1.64
+23.6,Night,Air Conditioner,Low,2.61
+21.3,Morning,Television,High,0.87
+22.5,Afternoon,Washing Machine,Low,2.02
+25.0,Night,Refrigerator,Low,0.82
+17.9,Morning,Washing Machine,Medium,1.72
+32.5,Morning,Heater,Low,3.74
+17.0,Evening,Heater,High,5.36
+15.9,Evening,Refrigerator,Medium,1.59
+27.8,Night,Air Conditioner,High,4.33
+26.0,Afternoon,Television,Medium,0.39
+25.1,Morning,Washing Machine,Low,1.61
+25.1,Night,Heater,Medium,3.89
+21.9,Morning,Air Conditioner,Medium,3.33
+17.5,Morning,Refrigerator,Low,0.49
+22.4,Afternoon,Microwave,Low,1.21
+18.6,Afternoon,Heater,High,4.72
+26.9,Night,Refrigerator,High,1.36
+21.3,Afternoon,Washing Machine,Low,1.87
+17.9,Afternoon,Television,Low,0.53
+20.4,Night,Heater,Low,2.84
+24.1,Afternoon,Heater,Medium,4.35
+19.2,Evening,Washing Machine,Medium,2.21
+17.9,Morning,Microwave,Medium,0.78
+23.2,Morning,Air Conditioner,Low,2.86
+23.2,Morning,Television,High,0.62
+19.5,Morning,Heater,Low,2.53
+19.6,Night,Television,Medium,0.17
+23.2,Morning,Heater,Medium,4.0
+14.8,Morning,Television,Low,-0.05
+15.0,Morning,Refrigerator,Low,0.94
+18.4,Morning,Heater,Medium,3.43
+20.9,Evening,Television,Medium,0.09
+23.6,Morning,Air Conditioner,Medium,3.78
+29.4,Evening,Refrigerator,Low,1.62
+26.3,Night,Refrigerator,Medium,1.16
+21.2,Afternoon,Air Conditioner,Medium,3.54
+21.9,Morning,Television,High,0.22
+17.0,Afternoon,Washing Machine,Low,1.79
+21.9,Afternoon,Air Conditioner,High,4.63
+20.6,Night,Television,High,0.29
+23.6,Afternoon,Air Conditioner,Medium,4.04
+17.9,Evening,Air Conditioner,Low,3.08
+24.6,Afternoon,Heater,Medium,4.94
+29.7,Afternoon,Television,Low,0.15
+21.5,Afternoon,Washing Machine,High,2.44
+24.0,Morning,Heater,Low,3.05
+25.5,Morning,Air Conditioner,Medium,3.64
+20.0,Evening,Microwave,Medium,0.93
+23.1,Evening,Air Conditioner,Medium,4.34
+22.1,Morning,Air Conditioner,Low,2.81
+22.5,Evening,Television,High,0.22
+18.1,Morning,Television,High,0.45
+22.1,Night,Heater,Low,3.19
+24.5,Afternoon,Washing Machine,Medium,2.38
+29.3,Afternoon,Heater,High,5.54
+26.8,Evening,Refrigerator,Medium,1.98
+32.8,Morning,Air Conditioner,Low,3.55
+18.2,Morning,Microwave,Medium,1.32
+26.4,Evening,Air Conditioner,High,5.7
+22.9,Morning,Air Conditioner,High,4.53
+32.9,Night,Heater,Medium,4.43
+18.0,Afternoon,Microwave,Low,0.76
+17.8,Evening,Microwave,Medium,1.17
+19.0,Evening,Microwave,Low,0.76
+11.4,Morning,Heater,Medium,3.24
+19.4,Evening,Air Conditioner,High,4.25
+18.2,Night,Heater,Low,2.67
+22.8,Morning,Television,Low,0.51
+23.7,Morning,Television,Low,0.27
+31.4,Morning,Heater,High,6.05
+26.8,Morning,Microwave,Medium,1.04
+19.1,Night,Air Conditioner,High,3.76
+17.5,Morning,Heater,Low,2.74
+24.5,Evening,Heater,Medium,5.23
+15.4,Night,Heater,High,3.8
+31.2,Afternoon,Refrigerator,Low,1.21
+27.9,Afternoon,Television,Low,-0.22
+19.7,Evening,Microwave,High,1.32
+13.4,Evening,Washing Machine,High,2.43
+28.8,Night,Microwave,High,1.39
+21.4,Afternoon,Washing Machine,Low,2.05
+28.2,Afternoon,Refrigerator,High,2.19
+14.0,Afternoon,Heater,Low,3.21
+19.0,Afternoon,Refrigerator,High,1.38
+22.0,Afternoon,Refrigerator,Low,1.0
+22.2,Morning,Air Conditioner,Low,2.96
+19.7,Evening,Television,Medium,0.45
+25.1,Morning,Washing Machine,High,2.87
+16.7,Afternoon,Heater,High,5.22
+21.3,Night,Washing Machine,Low,1.87
+22.6,Night,Microwave,Low,1.03
+24.6,Afternoon,Washing Machine,Low,1.96
+25.6,Afternoon,Microwave,Medium,1.45
+16.4,Night,Television,Medium,0.57
+14.3,Morning,Microwave,Low,0.65
+28.4,Morning,Washing Machine,High,2.6
+23.7,Afternoon,Washing Machine,High,2.58
+18.3,Morning,Microwave,Medium,0.75
+29.8,Night,Refrigerator,Medium,0.97
+22.6,Morning,Television,Low,0.29
+27.9,Afternoon,Air Conditioner,High,4.97
+22.3,Night,Heater,Low,2.74
+32.3,Morning,Washing Machine,Medium,2.55
+30.8,Evening,Heater,High,6.81
+20.8,Night,Air Conditioner,High,3.78
+26.9,Night,Heater,Medium,4.23
+25.2,Evening,Air Conditioner,Low,3.75
+28.8,Evening,Microwave,Low,1.39
+17.2,Night,Refrigerator,High,1.19
+25.4,Evening,Washing Machine,Medium,2.89
+27.3,Afternoon,Air Conditioner,High,5.18
+13.2,Afternoon,Heater,Medium,3.66
+16.1,Afternoon,Washing Machine,Low,1.84
+11.8,Night,Refrigerator,Medium,0.69
+20.7,Evening,Microwave,Low,1.34
+25.6,Evening,Washing Machine,Medium,2.52
+29.5,Morning,Air Conditioner,High,4.59
+22.4,Morning,Refrigerator,Low,1.1
+30.1,Evening,Heater,High,6.62
+15.1,Evening,Refrigerator,High,1.89
+13.5,Evening,Refrigerator,Low,0.87
+21.7,Night,Television,Low,0.28
+23.9,Evening,Refrigerator,High,1.51
+21.8,Morning,Refrigerator,High,1.6
+11.7,Night,Washing Machine,High,1.56
+21.6,Evening,Heater,High,5.85
+15.5,Morning,Washing Machine,Low,1.31
+25.3,Night,Washing Machine,Low,1.13
+23.8,Evening,Air Conditioner,High,5.25
+17.3,Evening,Washing Machine,Medium,2.19
+19.4,Evening,Television,Medium,0.52
+16.7,Night,Television,Low,0.5
+21.7,Morning,Air Conditioner,High,4.56
+26.8,Morning,Microwave,High,1.49
+17.1,Afternoon,Heater,Low,3.23
+24.5,Evening,Heater,Medium,4.75
+19.3,Afternoon,Washing Machine,Medium,2.12
+18.0,Afternoon,Washing Machine,Medium,2.07
+21.5,Morning,Microwave,Low,0.75
+16.8,Night,Washing Machine,Medium,1.74
+19.2,Night,Heater,Low,2.94
+16.0,Morning,Refrigerator,Low,0.68
+31.8,Night,Television,High,0.22
+22.2,Afternoon,Refrigerator,Medium,1.3
+18.5,Evening,Refrigerator,Low,0.95
+23.1,Morning,Heater,Medium,3.76
+21.4,Evening,Refrigerator,Medium,1.22
+20.9,Night,Microwave,High,0.81
+25.1,Evening,Air Conditioner,Medium,4.7
+25.8,Night,Washing Machine,High,2.66
+19.3,Night,Air Conditioner,Low,2.16
+19.1,Afternoon,Television,Medium,0.42
+20.6,Night,Washing Machine,Low,1.57
+10.5,Afternoon,Refrigerator,Medium,0.72
+14.4,Afternoon,Television,Low,0.26
+28.8,Afternoon,Washing Machine,Medium,3.01
+30.2,Morning,Microwave,Medium,1.3
+20.8,Morning,Microwave,Medium,0.93
+24.9,Night,Microwave,Medium,0.84
+23.6,Afternoon,Microwave,Medium,0.73
+37.4,Morning,Refrigerator,Medium,1.66
+27.6,Afternoon,Air Conditioner,Medium,4.67
+21.4,Evening,Washing Machine,Medium,2.21
+17.2,Evening,Refrigerator,Medium,0.91
+14.0,Evening,Microwave,Low,0.67
+23.0,Night,Air Conditioner,High,4.03
+18.2,Afternoon,Television,Medium,0.22
+14.9,Evening,Television,High,0.21
+18.8,Morning,Television,Medium,0.28
+16.6,Evening,Microwave,Medium,1.12
+30.4,Evening,Television,Low,0.06
+26.4,Evening,Heater,Low,4.13
+22.0,Night,Washing Machine,High,2.06
+29.4,Morning,Washing Machine,Low,1.71
+22.4,Afternoon,Microwave,Low,0.68
+17.7,Morning,Heater,High,4.58
+29.6,Afternoon,Refrigerator,Low,1.09
+24.7,Night,Refrigerator,Medium,0.74
+16.8,Night,Television,High,0.34
+21.0,Night,Air Conditioner,High,3.85
+17.6,Night,Refrigerator,Medium,0.83
+15.1,Afternoon,Air Conditioner,Low,2.54
+26.6,Evening,Washing Machine,High,3.02
+31.5,Afternoon,Air Conditioner,High,5.43
+15.0,Morning,Washing Machine,Medium,1.94
+24.8,Night,Heater,Medium,3.78
+18.7,Night,Heater,Low,2.86
+19.6,Morning,Microwave,High,0.95
+19.0,Afternoon,Microwave,Low,0.75
+17.7,Evening,Television,Low,0.45
+22.2,Evening,Refrigerator,Medium,1.28
+17.8,Morning,Television,High,0.53
+23.4,Evening,Washing Machine,High,2.83
+21.7,Afternoon,Television,High,0.33
+20.8,Afternoon,Air Conditioner,Medium,4.09
+17.5,Morning,Washing Machine,Medium,1.73
+19.1,Afternoon,Microwave,Medium,1.07
+25.8,Night,Heater,Medium,4.0
+24.5,Morning,Microwave,Medium,1.1
+17.1,Afternoon,Refrigerator,High,1.48
+22.5,Morning,Washing Machine,Low,1.6
+25.8,Evening,Washing Machine,High,2.84
+13.7,Afternoon,Air Conditioner,Low,2.64
+24.7,Night,Refrigerator,Medium,0.99
+18.7,Afternoon,Heater,Low,3.44
+24.9,Morning,Washing Machine,High,2.81
+18.2,Morning,Washing Machine,High,1.86
+13.0,Afternoon,Air Conditioner,Low,2.8
+13.9,Night,Television,Medium,0.14
+22.2,Night,Heater,Medium,3.59
+23.3,Night,Microwave,High,0.93
+17.5,Morning,Refrigerator,Low,0.91
+25.2,Afternoon,Washing Machine,Medium,2.35
+13.7,Evening,Washing Machine,Medium,2.22
+21.7,Morning,Microwave,High,1.04
+15.9,Night,Heater,Medium,3.49
+18.7,Afternoon,Television,Low,0.38
+22.2,Night,Washing Machine,High,2.19
+17.7,Evening,Heater,High,5.23
+20.1,Night,Microwave,Low,0.63
+27.0,Night,Air Conditioner,High,4.11
+19.1,Evening,Television,Medium,0.37
+26.2,Afternoon,Refrigerator,Medium,1.39
+16.4,Morning,Washing Machine,Low,1.29
+24.6,Afternoon,Heater,Medium,4.66
+29.2,Evening,Air Conditioner,Low,3.68
+9.6,Night,Refrigerator,Low,0.71
+18.0,Afternoon,Heater,Medium,4.0
+24.9,Morning,Heater,Low,3.52
+21.0,Evening,Refrigerator,Medium,1.61
+23.9,Afternoon,Air Conditioner,High,4.99
+19.0,Morning,Microwave,High,1.19
+22.4,Evening,Air Conditioner,Low,3.47
+21.2,Morning,Television,Medium,0.23
+27.8,Evening,Washing Machine,Medium,2.81
+23.3,Night,Refrigerator,High,1.49
+23.7,Afternoon,Microwave,High,1.05
+19.9,Morning,Refrigerator,Medium,1.23
+19.6,Evening,Refrigerator,Low,1.37
+19.8,Morning,Air Conditioner,High,3.94
+24.0,Morning,Washing Machine,Low,1.55
+19.9,Afternoon,Television,Low,0.17
+23.4,Night,Heater,High,4.14
+32.4,Morning,Heater,Low,3.89
+26.4,Evening,Refrigerator,Low,1.26
+20.4,Evening,Washing Machine,Medium,2.36
+28.0,Night,Microwave,Low,0.89
+20.0,Evening,Air Conditioner,Medium,3.87
+11.8,Night,Washing Machine,High,1.77
+17.0,Evening,Washing Machine,High,2.68
+12.6,Afternoon,Air Conditioner,Medium,3.03
+20.2,Morning,Refrigerator,High,1.47
+22.1,Afternoon,Washing Machine,Low,1.78
+30.4,Morning,Heater,Low,3.61
+23.6,Morning,Air Conditioner,Low,2.95
+20.9,Morning,Microwave,High,1.12
+26.1,Afternoon,Television,Low,0.43
+10.9,Morning,Refrigerator,High,1.07
+23.2,Afternoon,Air Conditioner,Low,2.9
+25.9,Night,Television,Medium,0.34
+14.6,Evening,Television,High,0.41
+27.7,Evening,Microwave,High,1.39
+23.7,Morning,Washing Machine,Low,1.8
+19.9,Afternoon,Microwave,High,1.4
+25.2,Evening,Washing Machine,High,2.89
+33.4,Afternoon,Washing Machine,Medium,2.57
+22.9,Afternoon,Air Conditioner,Medium,3.89
+23.2,Morning,Air Conditioner,Low,2.72
+19.7,Evening,Refrigerator,Medium,1.5
+17.8,Morning,Washing Machine,Low,1.5
+26.2,Morning,Television,Low,0.04
+17.7,Evening,Heater,Low,3.35
+22.4,Evening,Refrigerator,High,1.98
+19.6,Night,Air Conditioner,Medium,3.31
+24.4,Night,Microwave,Low,0.86
+23.7,Afternoon,Refrigerator,Medium,1.32
+27.2,Evening,Refrigerator,Low,1.18
+19.4,Night,Refrigerator,Medium,1.13
+20.7,Afternoon,Refrigerator,Medium,1.3
+17.1,Afternoon,Heater,Low,2.85
+19.8,Afternoon,Microwave,High,1.47
+23.9,Night,Microwave,Medium,1.2
+25.8,Evening,Microwave,High,1.7
+17.4,Morning,Washing Machine,High,1.96
+26.3,Afternoon,Television,Low,0.16
+28.8,Night,Microwave,Low,0.45
+24.1,Night,Refrigerator,Low,1.22
+31.4,Morning,Refrigerator,Medium,1.35
+18.1,Morning,Microwave,Low,1.2
+15.8,Night,Microwave,Low,1.02
+13.1,Evening,Refrigerator,Medium,1.0
+29.5,Morning,Washing Machine,Medium,2.16
+25.3,Night,Air Conditioner,Low,2.78
+21.7,Morning,Air Conditioner,Low,2.43
+23.4,Evening,Microwave,Low,0.9
+16.4,Afternoon,Heater,Low,3.02
+34.2,Morning,Microwave,High,1.86
+22.6,Evening,Microwave,High,1.49
+22.5,Night,Air Conditioner,Low,2.49
+25.6,Morning,Refrigerator,High,1.42
+24.4,Morning,Microwave,Medium,1.23
+23.1,Night,Refrigerator,High,1.23
+18.0,Afternoon,Refrigerator,High,1.45
+24.4,Night,Heater,Low,2.89
+31.4,Morning,Refrigerator,High,1.41
+28.7,Night,Air Conditioner,High,4.09
+30.0,Evening,Washing Machine,High,3.24
+19.4,Night,Washing Machine,High,2.0
+17.1,Morning,Television,Medium,0.23
+21.4,Night,Microwave,Low,0.69
+22.3,Afternoon,Air Conditioner,Low,3.0
+27.5,Night,Refrigerator,Medium,1.47
+13.5,Afternoon,Washing Machine,High,2.38
+29.6,Evening,Air Conditioner,Medium,4.81
+21.2,Afternoon,Washing Machine,High,2.65
+19.9,Night,Refrigerator,Medium,0.96
+16.9,Morning,Washing Machine,Low,0.87
+13.7,Afternoon,Microwave,Low,0.74
+26.1,Evening,Microwave,Low,1.1
+22.4,Afternoon,Television,High,0.08
+15.6,Afternoon,Television,High,0.45
+15.5,Afternoon,Washing Machine,Medium,1.86
+20.3,Evening,Air Conditioner,Medium,4.12
+30.3,Night,Microwave,Low,0.79
+20.7,Afternoon,Air Conditioner,High,4.75
+14.5,Afternoon,Air Conditioner,Medium,3.32
+20.8,Morning,Washing Machine,High,2.54
+20.6,Evening,Air Conditioner,High,5.12
+8.5,Afternoon,Microwave,Low,0.42
+21.7,Evening,Refrigerator,Low,1.0
+20.8,Afternoon,Television,High,0.48
+25.5,Night,Refrigerator,High,1.31
+31.2,Night,Air Conditioner,High,4.43
+27.6,Afternoon,Refrigerator,High,2.02
+20.7,Night,Microwave,Low,0.64
+16.5,Afternoon,Microwave,Medium,0.79
+34.9,Night,Air Conditioner,Low,3.0
+22.3,Morning,Washing Machine,Medium,2.45
+22.1,Morning,Refrigerator,High,1.41
+21.9,Morning,Washing Machine,Medium,1.72
+23.0,Evening,Washing Machine,Low,1.6
+21.3,Evening,Heater,Low,3.66
+19.1,Morning,Air Conditioner,High,3.92
+19.3,Evening,Television,Low,0.46
+21.8,Night,Microwave,High,1.25
+19.3,Afternoon,Microwave,Low,0.83
+18.4,Afternoon,Air Conditioner,Low,2.77
+22.5,Afternoon,Television,High,0.47
+20.7,Morning,Microwave,Medium,0.62
+29.5,Evening,Air Conditioner,Low,4.26
+8.7,Night,Microwave,Medium,0.79
+27.5,Night,Washing Machine,Low,1.77
+28.2,Morning,Refrigerator,Low,0.86
+11.6,Night,Refrigerator,Low,0.94
+20.3,Night,Microwave,Low,0.6
+20.1,Night,Heater,Medium,3.27
+15.0,Night,Television,Medium,0.22
+18.1,Evening,Television,Low,0.25
+16.4,Night,Television,Low,-0.02
+30.8,Afternoon,Washing Machine,Medium,2.41
+26.7,Morning,Television,High,0.2
+28.4,Evening,Refrigerator,High,1.76
+25.6,Night,Washing Machine,Medium,1.85
+16.4,Evening,Air Conditioner,Low,2.71
+19.4,Night,Television,Low,0.07
+24.4,Afternoon,Television,High,0.62
+15.9,Morning,Air Conditioner,High,3.85
+25.6,Night,Television,Medium,0.08
+20.8,Night,Air Conditioner,High,3.88
+20.1,Night,Washing Machine,Medium,1.34
+25.6,Night,Refrigerator,High,1.88
+24.2,Morning,Air Conditioner,High,4.64
+20.2,Morning,Heater,High,4.52
+27.8,Afternoon,Air Conditioner,Low,3.51
+16.6,Morning,Television,Low,-0.07
+25.1,Night,Washing Machine,Low,1.54
+25.0,Afternoon,Microwave,High,1.36
+20.5,Afternoon,Washing Machine,Medium,1.97
+23.6,Afternoon,Microwave,Medium,1.04
+15.7,Night,Air Conditioner,Medium,2.64
+26.6,Evening,Refrigerator,Medium,1.35
+21.1,Night,Heater,Low,2.66
+19.4,Morning,Washing Machine,Low,1.23
+27.2,Morning,Television,High,0.57
+18.5,Night,Microwave,High,0.82
+15.0,Night,Television,Medium,-0.01
+14.2,Afternoon,Refrigerator,Low,1.06
+25.0,Night,Microwave,Medium,1.03
+15.6,Afternoon,Washing Machine,High,2.46
+30.8,Morning,Air Conditioner,High,5.12
+11.6,Afternoon,Television,Medium,0.65
+30.5,Night,Refrigerator,High,1.49
+23.1,Morning,Washing Machine,Medium,1.75
+21.5,Evening,Washing Machine,Low,1.96
+19.3,Afternoon,Washing Machine,Medium,1.95
+24.0,Morning,Washing Machine,Low,1.47
+21.8,Afternoon,Microwave,Low,0.9
+27.5,Morning,Washing Machine,High,2.84
+22.6,Morning,Television,High,0.2
+22.8,Afternoon,Refrigerator,High,1.86
+20.2,Evening,Microwave,Medium,0.96
+21.7,Morning,Washing Machine,Medium,1.94
+23.5,Morning,Heater,High,5.02
+13.4,Morning,Heater,Medium,3.23
+15.3,Evening,Refrigerator,High,1.14
+25.7,Evening,Air Conditioner,Medium,4.7
+22.9,Night,Air Conditioner,Low,2.44
+21.1,Afternoon,Microwave,Low,1.01
+22.1,Evening,Microwave,High,1.19
+23.7,Afternoon,Microwave,Medium,0.92
+19.3,Night,Air Conditioner,Medium,3.15
+18.1,Afternoon,Heater,Low,3.31
+23.0,Evening,Air Conditioner,Low,3.34
+17.1,Afternoon,Television,High,0.43
+24.0,Evening,Washing Machine,Low,1.81
+13.5,Afternoon,Microwave,High,1.12
+27.1,Evening,Heater,Low,4.26
+24.4,Evening,Refrigerator,Low,1.13
+23.3,Afternoon,Refrigerator,Medium,1.19
+26.9,Night,Washing Machine,Low,1.6
+30.3,Morning,Heater,Low,3.72
+27.1,Night,Air Conditioner,High,4.07
+12.8,Afternoon,Air Conditioner,Low,2.31
+15.6,Night,Television,High,0.29
+18.9,Evening,Television,Low,0.18
+22.1,Morning,Air Conditioner,Low,2.6
+24.6,Afternoon,Refrigerator,High,1.68
+18.4,Afternoon,Microwave,Medium,1.34
+22.9,Afternoon,Refrigerator,High,1.54
+18.2,Morning,Television,High,0.63
+18.9,Evening,Washing Machine,High,3.12
+15.0,Afternoon,Air Conditioner,Medium,3.12
+17.4,Night,Television,Low,0.2
+15.2,Afternoon,Television,High,0.76
+17.1,Afternoon,Microwave,High,1.17
+27.3,Afternoon,Air Conditioner,Medium,4.27
+17.3,Afternoon,Microwave,High,0.86
+35.2,Evening,Air Conditioner,Low,4.14
+24.5,Night,Microwave,Medium,1.06
+22.9,Evening,Refrigerator,Low,1.66
+17.7,Night,Washing Machine,Low,1.28
+25.5,Afternoon,Washing Machine,Medium,2.02
+19.1,Morning,Air Conditioner,High,3.68
+22.6,Evening,Heater,Low,3.88
+34.8,Morning,Television,Low,0.54
+21.5,Evening,Television,Low,0.41
+27.7,Afternoon,Air Conditioner,Low,3.52
+18.5,Evening,Microwave,Medium,1.38
+21.8,Afternoon,Heater,Medium,4.24
+30.9,Evening,Refrigerator,Low,1.36
+18.9,Afternoon,Microwave,High,1.13
+31.1,Afternoon,Microwave,Low,0.99
+25.5,Night,Air Conditioner,High,3.84
+19.2,Afternoon,Air Conditioner,Low,2.84
+25.2,Night,Television,High,0.34
+26.9,Afternoon,Air Conditioner,Low,3.31
+25.1,Morning,Air Conditioner,High,4.43
+14.1,Afternoon,Air Conditioner,Low,2.67
+18.4,Morning,Television,Low,0.47
+20.8,Morning,Refrigerator,High,1.67
+21.6,Afternoon,Refrigerator,Medium,1.46
+25.1,Morning,Air Conditioner,High,4.21
+22.9,Night,Television,Medium,0.2
+15.3,Evening,Refrigerator,Low,0.94
+23.9,Afternoon,Microwave,High,1.24
+25.1,Morning,Refrigerator,High,1.6
+24.8,Afternoon,Refrigerator,High,1.35
+27.4,Night,Television,Medium,0.64
+26.2,Afternoon,Microwave,Medium,1.43
+24.3,Afternoon,Television,Low,0.37
+21.6,Morning,Air Conditioner,Medium,3.46
+13.7,Night,Washing Machine,Medium,1.75
+24.1,Evening,Refrigerator,Low,1.34
+23.0,Evening,Washing Machine,High,3.16
+23.4,Morning,Television,High,0.36
+15.6,Afternoon,Television,Low,0.59
+16.6,Morning,Television,High,0.55
+27.3,Morning,Washing Machine,Medium,2.31
+21.8,Morning,Television,Low,0.49
+25.4,Afternoon,Air Conditioner,Low,3.21
+22.1,Night,Television,Low,-0.02
+22.1,Morning,Heater,High,4.87
+26.7,Afternoon,Washing Machine,Low,1.91
+19.4,Night,Heater,Low,2.69
+22.5,Morning,Television,Low,0.49
+19.7,Evening,Air Conditioner,High,4.84
+19.8,Night,Refrigerator,Medium,1.09
+20.5,Morning,Microwave,Low,0.71
+23.1,Night,Microwave,Medium,1.1
+19.6,Night,Television,High,0.45
+28.3,Night,Air Conditioner,High,4.43
+17.5,Night,Washing Machine,High,1.87
+21.1,Night,Heater,High,4.5
+19.8,Night,Heater,Medium,3.81
+29.2,Morning,Heater,Low,3.83
+23.0,Evening,Washing Machine,High,2.78
+27.2,Afternoon,Microwave,High,1.3
+14.6,Night,Air Conditioner,Medium,2.61
+23.3,Afternoon,Washing Machine,Medium,2.14
+26.4,Morning,Heater,High,5.21
+22.4,Night,Television,Low,0.34
+27.3,Evening,Refrigerator,Low,1.33
+19.4,Afternoon,Washing Machine,High,2.54
+29.0,Night,Washing Machine,Medium,2.0
+33.5,Morning,Air Conditioner,High,5.15
+20.2,Evening,Air Conditioner,High,5.02
+19.8,Afternoon,Washing Machine,Medium,1.7
+29.3,Afternoon,Heater,High,6.05
+29.9,Night,Refrigerator,High,1.56
+19.4,Evening,Air Conditioner,High,4.93
+19.9,Evening,Heater,Medium,4.4
+20.6,Evening,Television,Low,0.07
+15.3,Evening,Air Conditioner,Low,3.03
+17.4,Morning,Heater,Medium,3.25
+17.0,Evening,Heater,Low,3.72
+18.2,Afternoon,Refrigerator,High,1.51
+21.8,Afternoon,Refrigerator,Low,1.36
+23.2,Morning,Television,High,0.15
+29.8,Afternoon,Heater,Low,3.98
+17.0,Afternoon,Microwave,Medium,0.51
+26.9,Evening,Heater,Low,4.06
+20.9,Afternoon,Refrigerator,Low,1.0
+21.8,Morning,Microwave,Low,0.4
+25.4,Evening,Air Conditioner,Medium,4.41
+16.4,Night,Air Conditioner,Low,1.84
+23.9,Evening,Washing Machine,Medium,2.44
+22.8,Morning,Refrigerator,High,1.69
+24.5,Evening,Washing Machine,Low,2.01
+23.4,Evening,Microwave,Medium,1.57
+34.3,Morning,Refrigerator,Medium,1.65
+18.8,Evening,Television,Low,0.54
+19.3,Morning,Heater,High,4.39
+18.9,Morning,Television,Medium,0.12
+19.2,Night,Microwave,Low,0.75
+18.8,Afternoon,Refrigerator,High,1.17
+27.9,Afternoon,Microwave,Medium,1.32
+29.1,Evening,Heater,Medium,5.42
+19.1,Evening,Air Conditioner,High,5.01
+17.8,Night,Air Conditioner,High,3.6
+24.4,Night,Microwave,Low,0.97
+19.2,Night,Washing Machine,Low,1.21
+25.2,Morning,Refrigerator,Medium,1.49
+23.0,Night,Refrigerator,High,1.61
+14.4,Night,Air Conditioner,High,3.2
+29.7,Evening,Television,High,0.35
+31.0,Night,Heater,Medium,4.1
+18.9,Morning,Television,High,0.59
+20.1,Morning,Television,High,0.88
+23.4,Evening,Microwave,Medium,1.04
+23.7,Night,Air Conditioner,Low,2.39
+25.3,Night,Air Conditioner,Low,2.87
+32.1,Morning,Air Conditioner,Medium,4.06
+21.1,Night,Microwave,High,1.26
+18.0,Night,Washing Machine,Medium,1.75
+15.1,Night,Television,Low,0.18
+18.3,Afternoon,Microwave,Low,0.9
+21.8,Evening,Refrigerator,Medium,1.51
+31.0,Afternoon,Heater,Medium,5.16
+19.4,Evening,Washing Machine,Low,1.47
+23.1,Morning,Refrigerator,Medium,1.26
+21.9,Night,Television,Low,0.53
+27.9,Evening,Air Conditioner,Medium,4.37
+34.6,Afternoon,Television,Medium,0.22
+19.3,Night,Microwave,Medium,0.94
+19.6,Morning,Heater,Low,3.05
+27.2,Evening,Microwave,Medium,1.41
+25.4,Evening,Washing Machine,Low,1.91
+31.2,Evening,Washing Machine,Low,2.51
+24.9,Night,Heater,Medium,3.82
+20.2,Afternoon,Refrigerator,Medium,1.41
+25.0,Afternoon,Refrigerator,Low,1.18
+27.5,Evening,Washing Machine,Low,2.17
+26.1,Morning,Washing Machine,High,2.72
+24.5,Morning,Air Conditioner,Low,2.98
+27.3,Afternoon,Refrigerator,High,1.51
+27.8,Morning,Heater,High,5.57
+28.9,Afternoon,Refrigerator,High,1.97
+25.2,Evening,Air Conditioner,Medium,4.05
+21.2,Afternoon,Microwave,Medium,0.95
+22.7,Afternoon,Washing Machine,Low,1.99
+28.0,Evening,Washing Machine,High,2.86
+17.9,Morning,Air Conditioner,Medium,3.4
+23.8,Afternoon,Heater,Medium,4.53
+20.0,Afternoon,Washing Machine,Medium,2.38
+22.1,Evening,Television,Medium,0.36
+28.4,Morning,Washing Machine,Medium,2.11
+23.0,Afternoon,Television,High,0.47
+22.2,Evening,Air Conditioner,High,5.05
+15.2,Afternoon,Air Conditioner,High,3.83
+25.7,Night,Washing Machine,High,2.76
+25.2,Evening,Refrigerator,Low,1.03
+32.8,Morning,Television,High,-0.01
+20.5,Morning,Heater,Medium,4.2
+23.1,Morning,Washing Machine,High,2.34
+23.2,Morning,Heater,Low,3.22
+29.9,Afternoon,Washing Machine,Medium,2.48
+21.5,Afternoon,Refrigerator,High,1.45
+23.4,Morning,Refrigerator,High,1.33
+25.0,Morning,Refrigerator,High,1.33
+22.9,Morning,Microwave,Medium,1.03
+19.8,Afternoon,Refrigerator,Medium,1.18
+23.0,Morning,Air Conditioner,Low,3.0
+27.4,Morning,Air Conditioner,Medium,3.97
+16.9,Night,Microwave,Medium,0.62
+22.7,Night,Television,High,0.35
+18.5,Morning,Heater,Medium,3.64
+28.0,Evening,Washing Machine,High,3.03
+14.4,Morning,Washing Machine,High,2.17
+19.2,Night,Microwave,Medium,0.83
+23.9,Evening,Air Conditioner,Low,3.41
+29.8,Evening,Washing Machine,Low,2.05
+21.7,Morning,Air Conditioner,Medium,3.27
+19.2,Night,Television,Low,0.6
+31.4,Night,Heater,High,5.2
+14.8,Evening,Television,High,0.15
+11.0,Morning,Microwave,Medium,0.84
+24.2,Afternoon,Refrigerator,Low,1.31
+19.5,Afternoon,Refrigerator,Low,1.04
+16.9,Night,Refrigerator,High,1.44
+25.5,Afternoon,Television,Medium,0.04
+23.2,Night,Washing Machine,Low,1.08
+19.2,Night,Heater,Medium,3.45
+15.6,Night,Refrigerator,Low,0.81
+26.4,Afternoon,Microwave,High,0.77
+25.3,Night,Microwave,High,1.03
+21.5,Evening,Refrigerator,Medium,1.22
+31.2,Morning,Refrigerator,High,1.43
+16.6,Morning,Heater,Low,2.65
+14.4,Night,Refrigerator,High,1.22
+18.5,Morning,Heater,Medium,3.52
+21.8,Afternoon,Microwave,Medium,0.9
+23.2,Afternoon,Refrigerator,Medium,1.03
+20.8,Morning,Television,Low,0.49
+23.8,Afternoon,Television,Low,0.36
+15.7,Morning,Microwave,Low,0.2
+29.2,Morning,Heater,Low,3.46
+21.6,Morning,Television,Low,0.34
+27.6,Night,Heater,High,5.06
+23.7,Morning,Television,Low,0.42
+24.3,Night,Television,Low,0.15
+24.8,Morning,Heater,High,4.68
+24.2,Morning,Washing Machine,Low,1.84
+25.2,Morning,Television,Medium,0.26
+28.6,Afternoon,Refrigerator,Low,1.21
+23.0,Night,Microwave,Low,0.7
+25.5,Night,Washing Machine,Medium,1.65
+21.6,Morning,Heater,Medium,4.04
+29.2,Morning,Washing Machine,Medium,2.33
+18.6,Afternoon,Air Conditioner,Medium,3.5
+31.0,Afternoon,Air Conditioner,Low,3.73
+21.8,Afternoon,Television,Medium,0.05
+14.8,Night,Television,Medium,0.18
+22.6,Night,Refrigerator,High,1.32
+18.6,Night,Microwave,Medium,0.49
+26.2,Morning,Washing Machine,Medium,2.16
+18.7,Night,Air Conditioner,High,3.68
+19.8,Evening,Television,High,0.35
+12.6,Evening,Microwave,Low,0.77
+19.7,Afternoon,Washing Machine,High,2.63
+9.9,Night,Television,Low,0.09
+14.1,Evening,Television,High,0.3
+25.8,Afternoon,Air Conditioner,High,4.74
+25.9,Night,Air Conditioner,Low,2.71
+24.1,Morning,Television,High,0.31
+17.2,Evening,Heater,Low,3.57
+21.8,Morning,Television,High,0.47
+22.0,Night,Microwave,Medium,1.06
+16.2,Evening,Television,High,0.28
+29.5,Night,Refrigerator,Low,0.56
+26.4,Morning,Refrigerator,High,1.72
+20.9,Evening,Refrigerator,Low,1.21
+22.1,Morning,Heater,Low,3.08
+23.0,Night,Heater,Medium,3.78
+11.8,Night,Television,Medium,-0.07
+20.8,Morning,Refrigerator,Low,1.14
+18.6,Evening,Heater,High,5.3
+17.0,Morning,Air Conditioner,Low,2.35
+20.6,Night,Television,Low,0.09
+31.0,Morning,Microwave,High,1.37
+25.2,Night,Washing Machine,High,2.3
+19.1,Morning,Television,High,0.35
+24.9,Evening,Washing Machine,High,2.96
